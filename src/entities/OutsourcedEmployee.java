@@ -3,7 +3,6 @@ package entities;
 public class OutsourcedEmployee extends Employee{
 	
 	private Double additionalCharge;
-
 	
 	public OutsourcedEmployee() {
 		super();
